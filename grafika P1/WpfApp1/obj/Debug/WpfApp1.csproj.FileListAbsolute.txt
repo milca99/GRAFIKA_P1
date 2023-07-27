@@ -1,0 +1,213 @@
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\App.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\WpfApp1.exe
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\GMap.NET.Core.dll
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\GMap.NET.Core.xml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\MainWindow.baml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.exe
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.dll
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.xml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\App.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.baml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.exe
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.xml
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\App.g.cs
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\TEMP.FTN.001\Downloads\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\bin\Debug\WpfApp1.exe
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\bin\Debug\GMap.NET.Core.dll
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\bin\Debug\GMap.NET.Core.xml
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\Elipse.g.cs
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\PolygonW.g.cs
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\Text.g.cs
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\App.g.cs
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\Elipse.baml
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\MainWindow.baml
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\PolygonW.baml
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\Text.baml
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\WpfApp1.exe
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\tea\Fax\4.godina\2.semestar\grafika\GMapZavrsen2\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\Elipse.g.cs
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\PolygonW.g.cs
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\Text.g.cs
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\App.g.cs
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\WpfApp1.exe
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\GMap.NET.Core.dll
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\GMap.NET.Core.xml
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\Elipse.baml
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\MainWindow.baml
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\PolygonW.baml
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\Text.baml
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.exe
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\tea\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\WpfApp1.exe
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\GMap.NET.Core.dll
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\GMap.NET.Core.xml
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\Elipse.g.cs
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\PolygonW.g.cs
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\Text.g.cs
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\App.g.cs
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\Elipse.baml
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\MainWindow.baml
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\PolygonW.baml
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\Text.baml
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.exe
+E:\tea2022\Fax\4.godina\2.semestar\grafika\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\bin\Debug\WpfApp1.exe
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\bin\Debug\GMap.NET.Core.dll
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\bin\Debug\GMap.NET.Core.xml
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\Elipse.g.cs
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\PolygonW.g.cs
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\Text.g.cs
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\App.g.cs
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\Elipse.baml
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\MainWindow.baml
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\PolygonW.baml
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\Text.baml
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.exe
+D:\milica\pcftn\grafika\milica erdelji\Projekat1_mapa_oblici\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\bin\Debug\GMap.NET.Core.xml
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\Elipse.g.cs
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\PolygonW.g.cs
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\Text.g.cs
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\Elipse.baml
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\PolygonW.baml
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\Text.baml
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\hp\Desktop\GRAFIKA PROJEKAT1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\bin\Debug\GMap.NET.Core.xml
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\Elipse.g.cs
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\PolygonW.g.cs
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\Text.g.cs
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\Elipse.baml
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\PolygonW.baml
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\Text.baml
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\hp\Desktop\GRAFIKA\Milica_Erdelji_PR121-2018\WpfApp1\obj\Debug\WpfApp1.pdb
